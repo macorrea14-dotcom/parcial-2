@@ -24,3 +24,5 @@ function info_general(nombre, precio, stock){
     }
 }
  info_general(producto.nombre, producto.precio, producto.stock);
+
+ // el ejercicio se resolvió con dos funciones, una para el descuento y otra para mostrar la información del producto

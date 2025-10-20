@@ -19,3 +19,5 @@ function area_triang(base, altura) {
 }
 let area2=area_triang(7, 4);
 console.log("El área del triangulo es: " +area2);
+
+//justificación: se crean 3 funcionaes con las diferentes areas para asi seguir un patrón limpio y ordenado
